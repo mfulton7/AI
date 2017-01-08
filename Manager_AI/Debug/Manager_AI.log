@@ -1,0 +1,50 @@
+﻿Build started 12/12/2016 8:09:37 PM.
+     1>Project "d:\Users\Mitchell\documents\visual studio 2015\Projects\Manager_AI\Manager_AI\Manager_AI.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\decisions.h(37): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\decisions.h(68): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\manager.h(137): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\manager.h(144): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\manager.h(152): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\manager.h(159): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\manager.h(167): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(27): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(32): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(40): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(82): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(84): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(133): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(142): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(151): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(178): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(185): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(188): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(194): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(206): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(232): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(235): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(241): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\net.h(255): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\main.cpp(71): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\main.cpp(79): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\main.cpp(80): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\main.cpp(115): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\main.cpp(162): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\main.cpp(171): warning C4018: '<': signed/unsigned mismatch
+     1>d:\users\mitchell\documents\visual studio 2015\projects\manager_ai\manager_ai\main.cpp(207): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\users\mitchell\documents\visual studio 2015\Projects\Manager_AI\Debug\Manager_AI.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"d:\users\mitchell\documents\visual studio 2015\Projects\Manager_AI\Debug\Manager_AI.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\users\mitchell\documents\visual studio 2015\Projects\Manager_AI\Debug\Manager_AI.lib" /MACHINE:X86 Debug\main.obj
+         Debug\manager.obj
+         Manager_AI.vcxproj -> d:\users\mitchell\documents\visual studio 2015\Projects\Manager_AI\Debug\Manager_AI.exe
+     1>Done Building Project "d:\Users\Mitchell\documents\visual studio 2015\Projects\Manager_AI\Manager_AI\Manager_AI.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.13
